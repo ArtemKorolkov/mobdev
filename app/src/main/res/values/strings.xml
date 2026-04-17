@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">mobdev</string>
+    <string name="app_name">ContactsLab</string>
+    <string name="contacts_title">Контакты</string>
+    <string name="no_permission_text">Нет разрешения на доступ к контактам</string>
+    <string name="grant_permission">Выдать разрешение</string>
+    <string name="no_contacts_found">Контакты не найдены</string>
+    <string name="phones">Телефон: %1$s</string>
+    <string name="emails">Email: %1$s</string>
+    <string name="none">нет</string>
+    <string name="close">Закрыть</string>
 </resources>
