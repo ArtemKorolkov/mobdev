@@ -1,4 +1,4 @@
-package io.github.mobdev
+package com.student.mobile_dev_laboratory_work_3
 
 import org.junit.Test
 

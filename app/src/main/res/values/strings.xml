@@ -1,3 +1,34 @@
 <resources>
-    <string name="app_name">mobdev</string>
+    <string name="app_name">FaeryTea Chat</string>
+
+    <!-- Экран входа -->
+    <string name="login_title">Вход в чат</string>
+    <string name="hint_username">Логин</string>
+    <string name="hint_password">Пароль</string>
+    <string name="button_login">Войти</string>
+
+    <!-- Экран чатов -->
+    <string name="chats_title">Чаты</string>
+    <string name="button_logout">Выйти</string>
+
+    <!-- Экран сообщений -->
+    <string name="hint_message">Сообщение</string>
+    <string name="button_send">Отправить</string>
+    <string name="button_back_to_chats">К чатам</string>
+    <string name="image_tap_hint">Нажмите для просмотра</string>
+
+    <!-- Ландшафт -->
+    <string name="select_chat_hint">Выберите чат</string>
+
+    <!-- Экран картинки -->
+    <string name="button_close_image">Закрыть</string>
+
+    <!-- Ошибки -->
+    <string name="error_wrong_credentials">Неверный логин / пароль</string>
+    <string name="error_network">Ошибка сети. Проверьте подключение к интернету.</string>
+    <string name="error_login_failed">Не удалось войти. Попробуйте позже.</string>
+    <string name="error_send_failed">Не удалось отправить сообщение.</string>
+    <string name="error_server">Ошибка сервера (%1$s).</string>
+    <string name="error_session_expired">Сессия истекла. Войдите снова.</string>
+    <string name="error_unknown">Произошла неизвестная ошибка.</string>
 </resources>
